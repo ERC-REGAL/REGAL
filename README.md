@@ -1,6 +1,8 @@
 # REGAL main repository
 
-## Conference talks
+## DMP
+
+Version 1
 
 ## Density-potential inv. from MY reg.
 
@@ -14,4 +16,10 @@
 
    Main script is dens-pot-inversion.py includes the packages fermion_hamiltonian.py, graph_dft.py and timer.py
 
-## DMP
+## Talks
+
++ PI: A. Laestadius
+
++ Senior Postdoc: M.A.Csirik
+
+
