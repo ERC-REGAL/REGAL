@@ -2,7 +2,7 @@
 
 The project researches Moreau-Yosida regularization in density-functional theory (DFT). Funding from the ERC-2021-STG under grant agreement No 101041487 REGAL.
 
-## Content
+# Content
 
 ## DMP
 
