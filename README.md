@@ -8,10 +8,10 @@
 
 + Python 3.7 script based on a script for many-particle systems in Slater basis on graphs: fermion-graph
 
-This script is part of the public domain CC0 1.0 Universal (CC0 1.0)
+   This script is part of the public domain CC0 1.0 Universal (CC0 1.0)
 
-Author: Markus Penz (2022)
+   Author: Markus Penz (2022)
 
-Main script is dens-pot-inversion.py includes the packages fermion_hamiltonian.py, graph_dft.py and timer.py
+   Main script is dens-pot-inversion.py includes the packages fermion_hamiltonian.py, graph_dft.py and timer.py
 
 ## DMP
