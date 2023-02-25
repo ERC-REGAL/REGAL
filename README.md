@@ -24,4 +24,8 @@ Version 1
 
 + Senior Postdoc: M.A.Csirik
 
+## The structure dens.-pot. mapping. Part I: std dft
+
++ [Preprint: *The structure of the density-potential mapping. Part I: Standard density-functional theory*](https://arxiv.org/abs/2211.16627)
+
 
