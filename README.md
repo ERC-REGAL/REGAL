@@ -4,7 +4,7 @@ The project researches Moreau-Yosida regularization in density-functional theory
 
 ## DMP
 
-Version 1
+Version 1 (forthcoming...)
 
 ## Density-potential inv. from MY reg.
 
