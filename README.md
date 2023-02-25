@@ -8,7 +8,7 @@ The project researches Moreau-Yosida regularization in density-functional theory
 
 Data Management Plan, version 1 (forthcoming...)
 
-## [Density-potential inv. from MY reg.](https://github.com/ERC-REGAL/REGAL/tree/main/Density-potential%20inv.%20from%20MY%20reg)
+## [Density-potential inversion from Moreau-Yosida regularization](https://github.com/ERC-REGAL/REGAL/tree/main/Density-potential%20inv.%20from%20MY%20reg)
 
 + [Preprint: *Density-potential inversion from Moreau-Yosidda regularization*](https://arxiv.org/abs/2212.12727)
 
@@ -26,7 +26,7 @@ Data Management Plan, version 1 (forthcoming...)
 
 + Senior Postdoc: M.A.Csirik
 
-## [The structure dens.-pot. mapping. Part I: std dft](https://github.com/ERC-REGAL/REGAL/tree/main/The%20structure%20dens.-pot.%20mapping.%20Part%20I%20std%20dft)
+## [The structure of the density-potential mapping. Part I: standard density-functional theory](https://github.com/ERC-REGAL/REGAL/tree/main/The%20structure%20dens.-pot.%20mapping.%20Part%20I%20std%20dft)
 
 + [Preprint: *The structure of the density-potential mapping. Part I: Standard density-functional theory*](https://arxiv.org/abs/2211.16627)
 
