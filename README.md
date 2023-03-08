@@ -31,7 +31,7 @@ The project researches Moreau-Yosida regularization in density-functional theory
 
 + PI: [A. Laestadius](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/A.Laestadius)
 
-+ Senior Postdoc: [M.A.Csirik](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/M.A.Csirik)
++ Senior Postdoc: [M.A. Csirik](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/M.A.Csirik)
 
 
 ## DMP-REGAL
