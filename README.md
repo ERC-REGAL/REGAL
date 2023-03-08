@@ -26,8 +26,12 @@ Data Management Plan, version 1 (forthcoming...)
 
 + Senior Postdoc: M.A.Csirik
 
-## [The structure of the density-potential mapping. Part I: standard density-functional theory](https://github.com/ERC-REGAL/REGAL/tree/main/The%20structure%20dens.-pot.%20mapping.%20Part%20I%20std%20dft)
+## [The structure of the density-potential mapping. Part I: Standard density-functional theory](https://github.com/ERC-REGAL/REGAL/tree/main/The%20structure%20dens.-pot.%20mapping.%20Part%20I%20std%20dft)
 
 + [Preprint: *The structure of the density-potential mapping. Part I: Standard density-functional theory*](https://arxiv.org/abs/2211.16627)
+
+## The structure of the density-potential mapping. Part II: Including magnetic fields
+
++ [Preprint: *The structure of the density-potential mapping. Part II: Including magnetic fields*](https://arxiv.org/abs/2303.01357)
 
 
