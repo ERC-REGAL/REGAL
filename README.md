@@ -17,9 +17,10 @@ The project researches Moreau-Yosida regularization in density-functional theory
    Main script is dens-pot-inversion.py includes the packages fermion_hamiltonian.py, graph_dft.py and timer.py
 
 
-## [The structure of the density-potential mapping. Part I: Standard density-functional theory](https://github.com/ERC-REGAL/REGAL/tree/main/The%20structure%20dens.-pot.%20mapping.%20Part%20I%20std%20dft)
+## The structure of the density-potential mapping. Part I: Standard density-functional theory
 
 + [Preprint: *The structure of the density-potential mapping. Part I: Standard density-functional theory*](https://arxiv.org/abs/2211.16627)
+
 
 ## The structure of the density-potential mapping. Part II: Including magnetic fields
 
@@ -30,7 +31,7 @@ The project researches Moreau-Yosida regularization in density-functional theory
 
 + PI: [A. Laestadius](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/A.Laestadius)
 
-+ Senior Postdoc: M.A.Csirik
++ Senior Postdoc: [M.A.Csirik](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/M.A.Csirik)
 
 
 ## DMP-REGAL
