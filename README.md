@@ -8,7 +8,7 @@ The project researches Moreau-Yosida regularization in density-functional theory
 
 Data Management Plan, version 1 (forthcoming...)
 
-## [Density-potential inversion from Moreau-Yosida regularization](https://github.com/ERC-REGAL/REGAL/tree/main/Density-potential%20inv.%20from%20MY%20reg)
+## [Density-potential inversion from Moreau-Yosida regularization](https://github.com/ERC-REGAL/REGAL/tree/main/MY-ZMP)
 
 + [Preprint: *Density-potential inversion from Moreau-Yosidda regularization*](https://arxiv.org/abs/2212.12727)
 
