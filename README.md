@@ -36,6 +36,6 @@ The project researches Moreau-Yosida regularization in density-functional theory
 
 ## DMP-REGAL
 
-Data Management Plan, [version 1 (forthcoming...)](https://github.com/ERC-REGAL/REGAL/tree/main/DMP-REGAL)
+Data Management Plan, [version 1](https://github.com/ERC-REGAL/REGAL/tree/main/DMP-REGAL)
 
 
