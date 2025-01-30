@@ -11,6 +11,7 @@ The presentation slides for several of the talks given at the *Workshop on Quant
 + Helgaker, Trygve - *Current-Density-Functional Theory in a Convex Treatment*
 + Herbst, Michael - *MY regularisation meets DFTK: How to do KS forward and inverse DFTK*
 + Loos, Pierre-François - *Excited State Specific Functionals of the Asymmetric Hubbard Dimer*
++ Lotfigolian, Maryam - *Moreau–Yosida Density-Potential Inversion*
 + Pedersen, Thomas - *Molecular Structure and Quantum Dynamics without the Born-Oppenheimer Approximation*
 + Penz, Markus - *Constrained Search in Imaginary Time*
 + Pittalis, Stefano - *Gauge symmetries of density functionals: from first principles to practical approximations for magnetism*
