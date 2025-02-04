@@ -16,5 +16,6 @@ The presentation slides for several of the talks given at the *Workshop on Quant
 + Penz, Markus - *Constrained Search in Imaginary Time*
 + Pittalis, Stefano - *Gauge symmetries of density functionals: from first principles to practical approximations for magnetism*
 + Polak, Elias - *Real-space Machine Learning of Correlation Density Functionals*
++ Ruggenthaler, Michael - *Ab initio quantum electrodynamics: from bare masses to modications of thermodynamics*
 + Schrader, Simon Elias - *Time evolution as optimization: Solving the time-dependent Schrödinger equation with Gaussians*
 + Sutter, Sarina - *v-Representability on Periodic Domains: a Sobolev Space Approach*
