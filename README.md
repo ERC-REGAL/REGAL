@@ -27,6 +27,15 @@ The project researches Moreau-Yosida regularization in density-functional theory
 
 + [*The structure of the density-potential mapping. Part II: Including magnetic fields*](https://doi.org/10.1021/acsphyschemau.3c00006) (2023) in *ACS Physical Chemistry Au*. Also available on [arXiv:2303.01357](https://arxiv.org/abs/2303.01357) **\[physics.chem-ph\]** 
 
+### Exchange energies with forces in density-functional theory 
++ [*Exchange energies with forces in density-functional theory*](https://doi.org/10.1063/5.0177346) (2024) in *The Journal of Chemical Physics* as a part of the *John Perdew Festschrift*. Also available on [arXiv:2203.16980](https://arxiv.org/abs/2203.16980) **\[physics.chem-ph\]**
+
+### Exchange-only virial relation from the adiabatic connection
++ [*Exchange-only virial relation from the adiabatic connection*](https://doi.org/10.1063/5.0184934) (2024) in *The Journal of Chemical Physics* as a part of the *John Perdew Festschrift*. Also available on [arXiv:2310.19144](https://arxiv.org/abs/2310.19144) **\[physics.chem-ph\]**
+
+### Thermodynamic limit for the magnetic uniform electron gas and representability of density-current pairs
++ [*Thermodynamic limit for the magnetic uniform electron gas and representability of density-current pairs*]{https://doi.org/10.1063/5.0198786} (2024) in the *Journal of Mathematical Physics*. Also available on [arXiv:2401.10885](https://arxiv.org/abs/2401.10885) **\[math-ph\]**
+
 ### Kohn-Sham inversion with mathematical guarantees
 + Preprint: *Kohn-Sham inversion with mathematical guarantees* available on [arXiv:2409.04372](https://arxiv.org/abs/2409.04372) **\[physics.chem-ph\]**
 
@@ -40,8 +49,8 @@ The project researches Moreau-Yosida regularization in density-functional theory
 ## Talks
 
 + PI: [A. Laestadius](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/A.Laestadius)
-
 + Senior Postdoc: [M.A. Csirik](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/M.A.Csirik)
++ PhD Research Fellow: [V.H. Bakkestuen](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/V.Bakkestuen)
 
 ## Workshop on Density-Functional Theory in Oslo 2024
 The presentation slides for several of the talks given at the *Workshop on Quantum Theory: Foundations and Extensions of Density-Functional Theory* in Oslo are available in [this folder](https://github.com/ERC-REGAL/REGAL/tree/main/Workshop-DFT-Oslo-2024). The workshop was held at the OsloMet campus Pilestredet, from the 2nd to the 6th of December 2024. See the [workshop webpage](https://uni.oslomet.no/quantum/workshop-foundations-and-extensions-of-dft/) for further details. 
