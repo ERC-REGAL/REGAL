@@ -6,8 +6,7 @@ The project researches Moreau-Yosida regularization in density-functional theory
 
 ## Density-potential inversion from Moreau-Yosida regularization
 
-+ [Preprint: *Density-potential inversion from Moreau-Yosidda regularization*](https://arxiv.org/abs/2212.12727)
-
++ [*Density-potential inversion from Moreau-Yosidda regularization*](https://doi.org/10.1088/2516-1075/acc626) (2023) in Electronic Structure. Also avaliable on [arXiv:2212.12727](https://arxiv.org/abs/2212.12727).
 + [Python 3.7 script](https://github.com/ERC-REGAL/REGAL/tree/main/MY-ZMP) based on a script for many-particle systems in Slater basis on graphs: fermion-graph
 
    This script is part of the public domain CC0 1.0 Universal (CC0 1.0)
