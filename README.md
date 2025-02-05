@@ -34,7 +34,7 @@ The project researches Moreau-Yosida regularization in density-functional theory
 + [*Exchange-only virial relation from the adiabatic connection*](https://doi.org/10.1063/5.0184934) (2024) in *The Journal of Chemical Physics* as a part of the *John Perdew Festschrift*. Also available on [arXiv:2310.19144](https://arxiv.org/abs/2310.19144) **\[physics.chem-ph\]**
 
 ### Thermodynamic limit for the magnetic uniform electron gas and representability of density-current pairs
-+ [*Thermodynamic limit for the magnetic uniform electron gas and representability of density-current pairs*]{https://doi.org/10.1063/5.0198786} (2024) in the *Journal of Mathematical Physics*. Also available on [arXiv:2401.10885](https://arxiv.org/abs/2401.10885) **\[math-ph\]**
++ [*Thermodynamic limit for the magnetic uniform electron gas and representability of density-current pairs*](https://doi.org/10.1063/5.0198786) (2024) in the *Journal of Mathematical Physics*. Also available on [arXiv:2401.10885](https://arxiv.org/abs/2401.10885) **\[math-ph\]**
 
 ### Kohn-Sham inversion with mathematical guarantees
 + Preprint: *Kohn-Sham inversion with mathematical guarantees* available on [arXiv:2409.04372](https://arxiv.org/abs/2409.04372) **\[physics.chem-ph\]**
