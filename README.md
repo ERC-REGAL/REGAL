@@ -51,6 +51,7 @@ The project researches Moreau-Yosida regularization in density-functional theory
 + PI: [A. Laestadius](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/A.Laestadius)
 + Senior Postdoc: [M.A. Csirik](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/M.A.Csirik)
 + PhD Research Fellow: [V.H. Bakkestuen](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/V.Bakkestuen)
++ PhD Research Fellow: [M. Lotfigolian](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/M.Lotfigolian)
 
 ## Workshop on Density-Functional Theory in Oslo 2024
 The presentation slides for several of the talks given at the *Workshop on Quantum Theory: Foundations and Extensions of Density-Functional Theory* in Oslo are available in [this folder](https://github.com/ERC-REGAL/REGAL/tree/main/Workshop-DFT-Oslo-2024). The workshop was held at the OsloMet campus Pilestredet, from the 2nd to the 6th of December 2024. See the [workshop webpage](https://uni.oslomet.no/quantum/workshop-foundations-and-extensions-of-dft/) for further details. 
