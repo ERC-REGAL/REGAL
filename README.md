@@ -37,9 +37,10 @@ The project researches Moreau-Yosida regularization in density-functional theory
 + [*Thermodynamic limit for the magnetic uniform electron gas and representability of density-current pairs*](https://doi.org/10.1063/5.0198786) (2024) in the *Journal of Mathematical Physics*. Also available on [arXiv:2401.10885](https://arxiv.org/abs/2401.10885) **\[math-ph\]**
 
 ### Kohn-Sham inversion with mathematical guarantees
+[![](https://img.shields.io/badge/arxiv-2409.04372-red)](https://arxiv.org/abs/2409.04372)
 + Preprint: *Kohn-Sham inversion with mathematical guarantees* available on [arXiv:2409.04372](https://arxiv.org/abs/2409.04372) **\[physics.chem-ph\]**
 
-### Quantum-electrodynamical density-functional theory for the Dicke Hamiltonian
+### Density-functional theory for the Dicke Hamiltonian
 + Preprint: *Quantum-electrodynamical density-functional theory for the Dicke Hamiltonian* available on [arXiv:2409.13767](https://arxiv.org/abs/2409.13767) **\[math-ph\]**
 
 ### Quantum-Electrodynamical Density-Functional Theory Exemplified by the Quantum Rabi Model
