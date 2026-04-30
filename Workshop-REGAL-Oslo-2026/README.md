@@ -11,6 +11,7 @@ The slides for several of the talks presented at the *workshop on the Foundation
 + Liebert, Julia - *A Symplectic-Geometric Perspective on Functional Theories*
 + Lewin, Mathieu - *Geometric Runge–Gross Theorem* 
 + Pittalis, Stefano - *Magnetism in DFT: Three Key Challenges — One (Hidden) Exact Condition*
++ Polak, Elias - *A Convex-Analytic Formulation of the Møller–Plesset Adiabatic Connection*
 + Toulouse, Julien - *Geometric time-dependent density-functional theory*
 + Schilling, Chirstian - *Geometric structure and foundations of functional theories*
 + Schmitz, Niklas F. - *Algorithmic differentiation for plane-wave DFT: materials design, error control and learning model parameters*
