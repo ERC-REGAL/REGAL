@@ -4,6 +4,7 @@ The slides for several of the talks presented at the *workshop on the Foundation
 # Contents 
 + Corso, Thiago Carvalho - *Mathematical foundations of density functional theory for one-dimensional systems*
 + Falmår, Vegard - *Errors and Bounds — as Good as it Sounds: Regularised Density-Potential Inversion for Periodic Systems*
++ Garrigue, Louis - *Inverse potentials of one-body densities, the dual functional approach*
 + Giarrusso, Sara - *From an intrinsic to a fictitious vector potential: exact electron factorization as a route beyond TDDFT*
 + Herbst, Michael - *Basis set error estimation in plane-wave density-functional theory*
 + Jha, Gautam - *Kinetic Energy Tensors: Importance of Anisotropy in Chemical Analysis*
