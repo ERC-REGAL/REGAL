@@ -6,6 +6,7 @@ The slides for several of the talks presented at the *workshop on the Foundation
 + Falmår, Vegard - *Errors and Bounds — as Good as it Sounds: Regularised Density-Potential Inversion for Periodic Systems*
 + Garrigue, Louis - *Inverse potentials of one-body densities, the dual functional approach*
 + Giarrusso, Sara - *From an intrinsic to a fictitious vector potential: exact electron factorization as a route beyond TDDFT*
++ Graf, Paul - *On an Attempt to Capture Strong Electron Correlation at Mean-Field Computational Cost*
 + Herbst, Michael - *Basis set error estimation in plane-wave density-functional theory*
 + Jha, Gautam - *Kinetic Energy Tensors: Importance of Anisotropy in Chemical Analysis*
 + Kumar, Dharamveer - *A direct approach to computing the non-interacting kinetic energy functional*
