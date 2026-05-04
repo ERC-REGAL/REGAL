@@ -16,3 +16,4 @@ The slides for several of the talks presented at the *workshop on the Foundation
 + Toulouse, Julien - *Geometric time-dependent density-functional theory*
 + Schilling, Chirstian - *Geometric structure and foundations of functional theories*
 + Schmitz, Niklas F. - *Algorithmic differentiation for plane-wave DFT: materials design, error control and learning model parameters*
++ Wang, Chih-Chun - *Boundary forces in generalized density functional theories*
