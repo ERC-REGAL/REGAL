@@ -8,6 +8,7 @@ The slides for several of the talks presented at the *workshop on the Foundation
 + Giarrusso, Sara - *From an intrinsic to a fictitious vector potential: exact electron factorization as a route beyond TDDFT*
 + Herbst, Michael - *Basis set error estimation in plane-wave density-functional theory*
 + Jha, Gautam - *Kinetic Energy Tensors: Importance of Anisotropy in Chemical Analysis*
++ Kumar, Dharamveer - *A direct approach to computing the non-interacting kinetic energy functional*
 + Lauritsen, Asbjørn Bækgaard - *Geometric time-dependent density functional theory for lattice systems*
 + Liebert, Julia - *A Symplectic-Geometric Perspective on Functional Theories*
 + Lewin, Mathieu - *Geometric Runge–Gross Theorem* 
