@@ -1,5 +1,7 @@
 # Talks by Vebjørn H. Bakkestuen
-PhD Research Fellow, [website](https://uni.oslomet.no/regal/vebjorn-h-bakkestuen/)
+PhD Research Fellow 2023–2026, [website](https://uni.oslomet.no/regal/vebjorn-h-bakkestuen/)
+
+Defended the PhD thesis [*Mathematical and Theoretical Aspects of Density-Functional Theory*](https://hdl.handle.net/11250/5519168) on 8 June 2026.
 
 ## Talks
 + [Presentation](https://github.com/ERC-REGAL/REGAL/blob/main/Talks/V.Bakkestuen/QEDFT_CentreForAdvancedStudy.pdf) at Young CAS seminar by Ida-Marie Høyvik at the *Centre for Advanced Study* at the *Norwegian Academy of Science and Letters* in February 2024

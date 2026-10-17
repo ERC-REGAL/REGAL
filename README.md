@@ -1,10 +1,12 @@
 # REGAL Main repository
 
-The project researches Moreau-Yosida regularization in density-functional theory (DFT). Funding from the ERC-2021-STG under grant agreement No 101041487 REGAL.
+The project researches Moreau-Yosida regularization in density-functional theory (DFT). Funding from the ERC-2021-STG under grant agreement No 101041487 REGAL. The host institution is the Department of Mathematical Sciences, Chalmers University of Technology and the University of Gothenburg.
 
 # Contents
 
 ## Publications
+
+The list is also kept on the [project website](https://uni.oslomet.no/regal/publications/).
 
 ### Density-potential inversion from Moreau-Yosida regularization
 
@@ -36,26 +38,57 @@ The project researches Moreau-Yosida regularization in density-functional theory
 ### Thermodynamic limit for the magnetic uniform electron gas and representability of density-current pairs
 + [*Thermodynamic limit for the magnetic uniform electron gas and representability of density-current pairs*](https://doi.org/10.1063/5.0198786) (2024) in the *Journal of Mathematical Physics*. Also available on [arXiv:2401.10885](https://arxiv.org/abs/2401.10885) **\[math-ph\]**
 
-### Kohn-Sham inversion with mathematical guarantees
-[![](https://img.shields.io/badge/arxiv-2409.04372-red)](https://arxiv.org/abs/2409.04372)
-+ Preprint: *Kohn-Sham inversion with mathematical guarantees* available on [arXiv:2409.04372](https://arxiv.org/abs/2409.04372) **\[physics.chem-ph\]**
+### Quantum-Electrodynamical Density-Functional Theory Exemplified by the Quantum Rabi Model
++ [*Quantum-Electrodynamical Density-Functional Theory Exemplified by the Quantum Rabi Model*](https://doi.org/10.1021/acs.jpca.4c07690) (2025) in *The Journal of Physical Chemistry A*. Also available on [arXiv:2411.15256](https://arxiv.org/abs/2411.15256) **\[quant-ph\]**
++ Python scripts for reproducing the numerical results are available [here](https://github.com/VegardFalmaar/QEDFT-Quantum-Rabi-Code). The scripts build on existing methods from the [qmodel](https://github.com/magmage/qmodel) package.
 
 ### Density-functional theory for the Dicke Hamiltonian
-+ Preprint: *Quantum-electrodynamical density-functional theory for the Dicke Hamiltonian* available on [arXiv:2409.13767](https://arxiv.org/abs/2409.13767) **\[math-ph\]**
++ [*Density-Functional Theory for the Dicke Hamiltonian*](https://doi.org/10.1007/s10955-025-03442-9) (2025) in the *Journal of Statistical Physics*. Also available on [arXiv:2409.13767](https://arxiv.org/abs/2409.13767) **\[math-ph\]**
 
-### Quantum-Electrodynamical Density-Functional Theory Exemplified by the Quantum Rabi Model
-+ Preprint: *Quantum-Electrodynamical Density-Functional Theory Exemplified by the Quantum Rabi Model* available on [arXiv:2411.15256](https://arxiv.org/abs/2411.15256) **\[quant-ph\]** 
-+ Python scripts for reproducing the numerical results are available [here](https://github.com/VegardFalmaar/QEDFT-Quantum-Rabi-Code). The scripts build on existing methods from the [qmodel](https://github.com/magmage/qmodel) package. 
+### Kohn-Sham inversion with mathematical guarantees
+[![](https://img.shields.io/badge/arxiv-2409.04372-red)](https://arxiv.org/abs/2409.04372)
++ [*Kohn-Sham inversion with mathematical guarantees*](https://doi.org/10.1103/PhysRevB.111.205143) (2025) in *Physical Review B*. Also available on [arXiv:2409.04372](https://arxiv.org/abs/2409.04372) **\[physics.chem-ph\]**
+
+### Adaptation of Moreau-Yosida regularization to the modulus of convexity
++ [*Adaptation of Moreau-Yosida regularization to the modulus of convexity*](https://doi.org/10.1016/j.jmaa.2025.129956) (2026) in the *Journal of Mathematical Analysis and Applications*. Also available on [arXiv:2504.01772](https://arxiv.org/abs/2504.01772) **\[math.FA\]**
+
+### Regularised density-potential inversion for periodic systems
++ [*Regularised Density-Potential Inversion for Periodic Systems: Application to Exact Exchange in One Dimension*](https://doi.org/10.1063/5.0310171) (2026) in *The Journal of Chemical Physics*. Also available on [arXiv:2510.24330](https://arxiv.org/abs/2510.24330) **\[physics.chem-ph\]**
++ The one-dimensional Hartree-Fock calculations use the open-source code [Sable](https://gitlab.com/et/sable-release), a 1D Hartree-Fock code by O.M. Bohle, M. Lotfigolian and E.I. Tellgren.
+
+### Perspective on Moreau-Yosida regularization in density-functional theory
++ [*Perspective on Moreau-Yosida Regularization in Density-Functional Theory*](https://doi.org/10.1088/2516-1075/ae55eb) (2026) in *Electronic Structure*. Also available on [arXiv:2511.06957](https://arxiv.org/abs/2511.06957) **\[cond-mat.mtrl-sci\]**
+
+### Neural network approximation of regularized density functionals
++ Preprint: *Neural network approximation of regularized density functionals* available on [arXiv:2511.18512](https://arxiv.org/abs/2511.18512) **\[physics.chem-ph\]**
+
+### A quantitative Hohenberg-Kohn theorem in one spatial dimension
++ Preprint: *A quantitative Hohenberg-Kohn theorem and the unexpected regularity of density functional theory in one spatial dimension* available on [arXiv:2512.04726](https://arxiv.org/abs/2512.04726) **\[math-ph\]**
+
+### The non-uniform electron gas
++ Preprint: *The non-uniform electron gas* available on [arXiv:2603.21200](https://arxiv.org/abs/2603.21200) **\[math-ph\]**
+
+### Moreau-Yosida-based Kohn-Sham inversion for periodic systems
++ Preprint: *Moreau-Yosida-based Kohn-Sham Inversion for Periodic Systems* available on [arXiv:2606.19471](https://arxiv.org/abs/2606.19471) **\[math.NA\]**
++ Julia code and data for reproducing the numerical results are available [here](https://github.com/vebjorhb/MY-periodic-inversion). The implementation builds on the [DFTK](https://github.com/JuliaMolSim/DFTK.jl) package.
+
+### Equality of the jellium and the uniform electron gas energies
++ Preprint: *Equality of the Jellium and the Uniform Electron Gas Energies* available on [arXiv:2610.20910](https://arxiv.org/abs/2610.20910) **\[math-ph\]**
++ A Lean formalization of the lower and upper energy comparisons is available [here](https://github.com/xyzw/jellium_ueg).
 
 ## Talks
 
 + PI: [A. Laestadius](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/A.Laestadius)
 + Senior Postdoc: [M.A. Csirik](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/M.A.Csirik)
-+ PhD Research Fellow: [V.H. Bakkestuen](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/V.Bakkestuen)
++ PhD Research Fellow (2023–2026): [V.H. Bakkestuen](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/V.Bakkestuen), defended the PhD thesis [*Mathematical and Theoretical Aspects of Density-Functional Theory*](https://hdl.handle.net/11250/5519168) on 8 June 2026
 + PhD Research Fellow: [M. Lotfigolian](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/M.Lotfigolian)
++ PhD Research Fellow: [V. Falmår](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/V.Falmar)
 
 ## Workshop on Density-Functional Theory in Oslo 2024
 The presentation slides for several of the talks given at the *Workshop on Quantum Theory: Foundations and Extensions of Density-Functional Theory* in Oslo are available in [this folder](https://github.com/ERC-REGAL/REGAL/tree/main/Workshop-DFT-Oslo-2024). The workshop was held at the OsloMet campus Pilestredet, from the 2nd to the 6th of December 2024. See the [workshop webpage](https://uni.oslomet.no/quantum/workshop-foundations-and-extensions-of-dft/) for further details. 
+
+## Workshop on Density-Functional Theory in Oslo 2026
+The presentation slides for several of the talks given at the *Workshop on the Foundations and Extensions of Density-Functional Theory*, hosted by the ERC project REGAL in Oslo, are available in [this folder](https://github.com/ERC-REGAL/REGAL/tree/main/Workshop-REGAL-Oslo-2026). The workshop was held at the OsloMet campus Pilestredet, from the 20th to the 24th of April 2026. See the [workshop webpage](https://uni.oslomet.no/regal/workshop-foundations-and-extensions-of-dft/) for further details.
 
 ## DMP-REGAL
 

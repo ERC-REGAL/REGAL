@@ -1,5 +1,5 @@
 # Workshop on the Foundations and Extensions of Density-Functional Theory
-The slides for several of the talks presented at the *workshop on the Foundations and Extensions of Density-Functional Theory* hosted by the ERC project REGAL at Oslo Metropolitan University — OsloMet. The workshop was held at the OsloMet campus Pilestredet, from the 20th to the 24th of April 2026. See the [workshop webpage](https://uni.oslomet.no/regal/workshop-foundations-and-extensions-of-dft/) for furhter details.
+The slides for several of the talks presented at the *workshop on the Foundations and Extensions of Density-Functional Theory* hosted by the ERC project REGAL at Oslo Metropolitan University — OsloMet. The workshop was held at the OsloMet campus Pilestredet, from the 20th to the 24th of April 2026. See the [workshop webpage](https://uni.oslomet.no/regal/workshop-foundations-and-extensions-of-dft/) for further details.
 
 # Contents 
 + Corso, Thiago Carvalho - *Mathematical foundations of density functional theory for one-dimensional systems*
@@ -17,6 +17,6 @@ The slides for several of the talks presented at the *workshop on the Foundation
 + Pittalis, Stefano - *Magnetism in DFT: Three Key Challenges — One (Hidden) Exact Condition*
 + Polak, Elias - *A Convex-Analytic Formulation of the Møller–Plesset Adiabatic Connection*
 + Toulouse, Julien - *Geometric time-dependent density-functional theory*
-+ Schilling, Chirstian - *Geometric structure and foundations of functional theories*
++ Schilling, Christian - *Geometric structure and foundations of functional theories*
 + Schmitz, Niklas F. - *Algorithmic differentiation for plane-wave DFT: materials design, error control and learning model parameters*
 + Wang, Chih-Chun - *Boundary forces in generalized density functional theories*
