@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.gu.se/en/research/regal-regularized-density-functional-analysis"><img src="logos/regal_logo.png" alt="REGAL logo" height="120"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://erc.europa.eu/"><img src="logos/erc_logo.png" alt="European Research Council logo" height="120"></a>
+</p>
+
 # REGAL Main repository
 
 The project researches Moreau-Yosida regularization in density-functional theory (DFT). Funding from the ERC-2021-STG under grant agreement No 101041487 REGAL. The host institution is the Department of Mathematical Sciences, Chalmers University of Technology and the University of Gothenburg.
