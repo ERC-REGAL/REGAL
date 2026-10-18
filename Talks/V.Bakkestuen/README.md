@@ -1,7 +1,7 @@
 # Talks by Vebjørn H. Bakkestuen
 PhD Research Fellow 2023–2026, [website](https://uni.oslomet.no/regal/vebjorn-h-bakkestuen/)
 
-Defended the PhD thesis [*Mathematical and Theoretical Aspects of Density-Functional Theory*](https://hdl.handle.net/11250/5519168) on 8 June 2026.
+Defended the PhD thesis [*Mathematical and Theoretical Aspects of Density-Functional Theory*](https://hdl.handle.net/11250/5519168) on 8 June 2026. At the University of Geneva since 1 October 2026.
 
 ## Talks and posters
 

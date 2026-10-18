@@ -4,6 +4,17 @@ The project researches Moreau-Yosida regularization in density-functional theory
 
 # Contents
 
+## Team members
+
+Each name links to that person's talks and posters.
+
++ PI: [A. Laestadius](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/A.Laestadius)
++ Senior Postdoc: [M.A. Csirik](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/M.A.Csirik)
++ Researcher: [M. Penz](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/M.Penz)
++ PhD Research Fellow (2023–2026): [V.H. Bakkestuen](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/V.Bakkestuen) (at the University of Geneva since 1 October 2026), defended the PhD thesis [*Mathematical and Theoretical Aspects of Density-Functional Theory*](https://hdl.handle.net/11250/5519168) on 8 June 2026
++ PhD Research Fellow: [M. Lotfigolian](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/M.Lotfigolian)
++ PhD Research Fellow: [V. Falmår](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/V.Falmar)
+
 ## Publications
 
 ### Density-potential inversion from Moreau-Yosida regularization
@@ -89,15 +100,6 @@ The project researches Moreau-Yosida regularization in density-functional theory
 [![](https://img.shields.io/badge/arxiv-2610.20910-red)](https://arxiv.org/abs/2610.20910)
 + Preprint: *Equality of the Jellium and the Uniform Electron Gas Energies* available on [arXiv:2610.20910](https://arxiv.org/abs/2610.20910) **\[math-ph\]**
 + A Lean formalization of the lower and upper energy comparisons is available [here](https://github.com/xyzw/jellium_ueg).
-
-## Talks
-
-+ PI: [A. Laestadius](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/A.Laestadius)
-+ Senior Postdoc: [M.A. Csirik](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/M.A.Csirik)
-+ Researcher: [M. Penz](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/M.Penz)
-+ PhD Research Fellow (2023–2026): [V.H. Bakkestuen](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/V.Bakkestuen), defended the PhD thesis [*Mathematical and Theoretical Aspects of Density-Functional Theory*](https://hdl.handle.net/11250/5519168) on 8 June 2026
-+ PhD Research Fellow: [M. Lotfigolian](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/M.Lotfigolian)
-+ PhD Research Fellow: [V. Falmår](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/V.Falmar)
 
 ## Workshop on Density-Functional Theory in Oslo 2024
 The presentation slides for several of the talks given at the *Workshop on Quantum Theory: Foundations and Extensions of Density-Functional Theory* in Oslo are available in [this folder](https://github.com/ERC-REGAL/REGAL/tree/main/Workshop-DFT-Oslo-2024). The workshop was held at the OsloMet campus Pilestredet, from the 2nd to the 6th of December 2024. See the [workshop webpage](https://uni.oslomet.no/quantum/workshop-foundations-and-extensions-of-dft/) for further details. 
