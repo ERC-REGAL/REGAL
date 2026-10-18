@@ -2,6 +2,8 @@
 
 The project researches Moreau-Yosida regularization in density-functional theory (DFT). Funding from the ERC-2021-STG under grant agreement No 101041487 REGAL. The host institution is the Department of Mathematical Sciences, Chalmers University of Technology and the University of Gothenburg.
 
+Funded by the European Union (ERC, REGAL, 101041487). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
+
 # Contents
 
 ## Team members
@@ -9,11 +11,13 @@ The project researches Moreau-Yosida regularization in density-functional theory
 Each name links to that person's talks and posters.
 
 + PI: [A. Laestadius](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/A.Laestadius)
-+ Senior Postdoc: [M.A. Csirik](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/M.A.Csirik)
++ Researcher: [M.A. Csirik](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/M.A.Csirik)
 + Researcher: [M. Penz](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/M.Penz)
++ Researcher (2025–2026): [O.M. Bohle](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/O.Bohle)
 + PhD Research Fellow (2023–2026): [V.H. Bakkestuen](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/V.Bakkestuen) (at the University of Geneva since 1 October 2026), defended the PhD thesis [*Mathematical and Theoretical Aspects of Density-Functional Theory*](https://hdl.handle.net/11250/5519168) on 8 June 2026
 + PhD Research Fellow: [M. Lotfigolian](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/M.Lotfigolian)
 + PhD Research Fellow: [V. Falmår](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/V.Falmar)
++ Master student (spring 2026): [F. Rumiz](https://github.com/ERC-REGAL/REGAL/tree/main/Talks/F.Rumiz), visiting the University of Oslo from the University of Trieste, master thesis in chemistry *Theoretical aspects of Kohn–Sham inversion in Density-Functional Theory*
 
 ## Publications
 
@@ -111,4 +115,6 @@ The presentation slides for several of the talks given at the *Workshop on the F
 
 Data Management Plan, [version 1](https://github.com/ERC-REGAL/REGAL/tree/main/DMP-REGAL)
 
+## License
 
+The code in this repository, such as the [MY-ZMP](https://github.com/ERC-REGAL/REGAL/tree/main/MY-ZMP) scripts, is released under [CC0 1.0 Universal](https://github.com/ERC-REGAL/REGAL/blob/main/LICENSE). The talk slides and posters in the Talks and workshop folders remain the property of their authors and are shared here with their permission. They are not covered by the CC0 licence.
