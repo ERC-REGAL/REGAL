@@ -4,6 +4,7 @@ Principal Investigator, [website](https://uni.oslomet.no/regal/andre-laestadius/
 ## Talks and posters
 
 ### 2026
++ Talk: *An inverse problem for quantum systems in magnetic fields*, Department Day (Chalmers/GU), Gothenburg, 28 October 2026
 + Talk: *A Non-Reflexive Moreau-Yosida Regularization for Density-Functional Theory*, workshop *Analysis and Simulation of Quantum and Molecular Systems*, Aachen, 29 May 2026
 + Talk: *Quantitative Hohenberg-Kohn Theorem and Analytic Regularity in One-Dimensional Density-Functional Theory*, 65th Sanibel Symposium, St. Augustine Beach, Florida, 26 February 2026
 

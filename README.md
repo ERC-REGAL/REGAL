@@ -96,6 +96,7 @@ Each name links to that person's talks and posters.
 ### A quantitative Hohenberg-Kohn theorem in one spatial dimension
 [![](https://img.shields.io/badge/arxiv-2512.04726-red)](https://arxiv.org/abs/2512.04726)
 + Preprint: *A quantitative Hohenberg-Kohn theorem and the unexpected regularity of density functional theory in one spatial dimension* available on [arXiv:2512.04726](https://arxiv.org/abs/2512.04726) **\[math-ph\]**
++ Accepted for publication in the *Journal of Spectral Theory* (October 2026).
 
 ### The non-uniform electron gas
 [![](https://img.shields.io/badge/arxiv-2603.21200-red)](https://arxiv.org/abs/2603.21200)
@@ -110,6 +111,11 @@ Each name links to that person's talks and posters.
 [![](https://img.shields.io/badge/arxiv-2610.20910-red)](https://arxiv.org/abs/2610.20910)
 + Preprint: *Equality of the Jellium and the Uniform Electron Gas Energies* available on [arXiv:2610.20910](https://arxiv.org/abs/2610.20910) **\[math-ph\]**
 + A Lean formalization of the lower and upper energy comparisons is available [here](https://github.com/xyzw/jellium_ueg).
+
+### Counterexamples to the total-current Hohenberg-Kohn conjecture
+[![](https://img.shields.io/badge/arxiv-2610.27294-red)](https://arxiv.org/abs/2610.27294)
++ Preprint: *Counterexamples to the total-current Hohenberg–Kohn conjecture* available on [arXiv:2610.27294](https://arxiv.org/abs/2610.27294) **\[math-ph\]**
++ A Lean formalization of the main results and the supporting arguments in the appendices is available [here](https://github.com/ERC-REGAL/mag_hk).
 
 ## Workshop on Density-Functional Theory in Oslo 2024
 The presentation slides for several of the talks given at the *Workshop on Quantum Theory: Foundations and Extensions of Density-Functional Theory* in Oslo are available in [this folder](https://github.com/ERC-REGAL/REGAL/tree/main/Workshop-DFT-Oslo-2024). The workshop was held at the OsloMet campus Pilestredet, from the 2nd to the 6th of December 2024. See the [workshop webpage](https://uni.oslomet.no/quantum/workshop-foundations-and-extensions-of-dft/) for further details. 
