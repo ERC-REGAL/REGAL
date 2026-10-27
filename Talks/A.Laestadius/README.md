@@ -1,5 +1,5 @@
 # Talks by Andre Laestadius
-Principal Investigator, [website](https://uni.oslomet.no/regal/andre-laestadius/)
+Principal Investigator, [website](https://www.chalmers.se/en/persons/andrelae/)
 
 ## Talks and posters
 
